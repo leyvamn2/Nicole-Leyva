@@ -25,6 +25,6 @@ Since some time ago, I want to focus on IT development in a hundred percent. Tro
 ### Universidad Tecmilenio
 ### Mechatronics Engineering | 2016 - 2019
 Obtained Certifications:
--Automotive electrical systems (2019).
--Manufacturing Systems Automation (2019).
--Innovation and Entrepeneurship(2019).
+- Automotive electrical systems (2019).
+- Manufacturing Systems Automation (2019).
+- Innovation and Entrepeneurship(2019).
